@@ -1,0 +1,4 @@
+{
+    "name": "buzzwordcompliant/slopeone",
+    "description": "A PHP port of Bryan O'Sullivan's Python version of Lemire/Maclachlan's collabaritve filtering algorithm"
+}
